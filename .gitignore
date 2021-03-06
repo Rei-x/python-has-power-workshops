@@ -1,0 +1,3 @@
+.mypy_cache
+*.sqlite3
+__pycache__/
